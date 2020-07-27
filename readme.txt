@@ -5,3 +5,4 @@ content changed!
 Git has a mutable index called stage.
 github network is https://github.com/lee193007/demos.
 creating a new branch is dev.
+creating a new branch is quick & simple.
